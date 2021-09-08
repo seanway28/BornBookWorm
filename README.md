@@ -12,11 +12,11 @@ Don't know what to read? Need to find a book? Born Book Worm is the answer! This
 
 • Licence
 
-• Contributing
-
 • Questions
 
 • Contact
+
+
 
 ## Installation
 
@@ -28,3 +28,12 @@ Clone this repository using the `git clone` command. Once you've cloned the app,
 
 ![search](https://user-images.githubusercontent.com/81600120/132444700-950f0a0a-44f8-4e16-9227-d8866bfc7f1e.png)
 
+![saved1](https://user-images.githubusercontent.com/81600120/132445742-65070b20-7456-4d91-8fa2-0b3429770467.png)
+
+![saved2](https://user-images.githubusercontent.com/81600120/132445798-8873282e-8195-468f-af70-8647c56f4ece.png)
+
+
+## Questions?
+
+## Contact
+Questions or comments? You can reach me by email at seanway28@gmail.com
